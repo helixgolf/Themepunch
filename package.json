@@ -1,0 +1,19 @@
+﻿  {
+    "name": "Themepunch",
+    "filename": "jquery.themepunch.tools.min.js",
+    "version": "1.0",
+    "description": "Themepunch幻灯片",
+    "keywords": ["Themepunch", "幻灯片"],
+    "maintainers": [
+    {
+      "name": "Thomas",
+      "mail": "565616681@qq.com"
+    }
+    ],
+    "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/helixgolf"
+    }
+    ]
+  }
